@@ -1,0 +1,27 @@
+_repo: Mimi-Lynx-Eine-Novelle_66440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schaukal, Richard von
+    alias: Von Schaukal, Richard
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '51725'
+    url: http://www.gutenberg.org/2009/agents/51725
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Richard_von_Schaukal
+    - https://en.wikipedia.org/wiki/Richard_von_Schaukal
+description: ''
+gutenberg_issued: '2021-10-01'
+identifiers:
+  gutenberg: '66440'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mimi Lynx
+
+  Eine Novelle'
+url: http://www.gutenberg.org/ebooks/66440
